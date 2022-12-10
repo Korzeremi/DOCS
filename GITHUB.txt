@@ -1,6 +1,9 @@
-Github :
+Rémi KORZENIOWSKI
+
+---------------------Github--------------------
 git init
 git add <files or folders>
 git commit -m "NEWS"
 git status
 git push -u origin <branch>
+-----------------------------------------------
