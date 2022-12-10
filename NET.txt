@@ -1,0 +1,8 @@
+.NET DOCUMENT BY RÉMI KORZENIOWSKI
+
+
+.NET permet de développer de façon assez poussée divers programmes, API compatibles avec une grande variété de systèmes tels que Linux, Mac OS et Windows.
+Il est possible d'aller assez loin en combinaison avec divers FrameWorks tels que Windows Forms permettant de développer des programmes applicatifs pour Windows.
+
+{Environment.NewLine} = "\n"
+$ permet de placer d'incorporer des variables dans un string
